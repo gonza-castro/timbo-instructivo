@@ -17,6 +17,7 @@ En cuanto a las formas en que se pueden enfrentar los equipos encontramos:
 - <strong>Todos contra todos:</strong> es aquel formato en el que se enfrentan todos los equipos pertenecientes a la misma Zona sumando puntos por resultados conseguidos (estilo fase de Grupos de la Copa Mundial, Torneo Apertura Argentino)
 - <strong>Todos contra todos ida y vuelta:</strong> es aquel formato en el que se enfrentan todos los equipos tanto en ida como en vuelta sumando puntos por resultados obtenidos (estilo fase de Grupos de Champions League, fase de Grupos de Copa Libertadores; Liga Española, Italiana, Inglesa, etc)
 
+
 ## Añadir una nueva edición
 
 Clickeando en “Añadir edición” en la pantalla principal, accedemos al menú de configuración general de la nueva edición. También tenemos la posibilidad de cargar un archivo con el Reglamento y el sistema de Premios, a los que luego tendrán acceso los jugadores.
@@ -31,6 +32,7 @@ Para ingresar a la nueva edición clickeamos en el respectivo ícono sobre el ma
 Luego de ingresar, en el margen izquierdo de la pantalla, nos encontramos con una barra en la que se encuentran todas las herramientas para que puedas gestionar con eficiencia tu torneo. No te preocupes que vamos a ir explicando cada una de ellas a lo largo del instructivo.
 
 <p align="center"><img src="images/estructura4.png"></p>
+
 
 ## Añadir una  nueva categoría
 
@@ -56,9 +58,11 @@ Para ingresar desplegamos el menú “Estructura” y clickeamos sobre la corres
 - <strong>Zonas:</strong> se listan todas las zonas que ya hemos creado. indicando su correspondiente etapa.
 - <strong>Crear Zona:</strong> aquí es donde podemos agregar una nueva zona a nuestra categoría. Solo debemos indicar su nombre, su esquema, a qué etapa corresponde y la cantidad de equipos que deseamos.
 
+
 ### Ejemplo Copa Mundial de la FIFA
 
 A continuación veremos un ejemplo de cómo se estructuraría la Copa Mundial de la FIFA.
+
 
 #### Fase de Grupos (Etapa 1)
 
@@ -68,6 +72,7 @@ En este caso creamos las Zonas pertenecientes a la Fase de Grupos: Grupo A, B, C
 <p align="center"><img src="images/estructura9.png"></p>
 
 <strong>Nota:</strong> La asignación de los Equipos a la primer Etapa la veremos en el punto 3.4
+
 
 #### Octavos de Final (Etapa 2)
 
@@ -79,6 +84,7 @@ Para asignar los equipos que jugarán esta instancia seleccionamos <strong>“Re
 
 <p align="center"><img src="images/estructura11.png"></p>
 
+
 #### Cuartos de Final (Etapa 3)
 
 Aquí vamos a crear una Zona para incluir todos los partidos de Cuartos de Final (4 partidos)
@@ -89,6 +95,7 @@ Para asignar los equipos que jugarán esta instancia seleccionamos <strong>“Re
 
 <p align="center"><img src="images/estructura13.png"></p>
 
+
 #### Semifinal (Etapa 4)
 
 Aquí vamos a crear una Zona para incluir todos los partidos de Semifinal (2 partidos)
@@ -98,6 +105,7 @@ Aquí vamos a crear una Zona para incluir todos los partidos de Semifinal (2 par
 Para asignar los equipos que jugarán esta instancia seleccionamos <strong>“Resultado”</strong> y elegimos a los equipos de acuerdo al resultado de la Etapa anterior. Al finalizar <strong>“Guardar cambios”</strong>
 
 <p align="center"><img src="images/estructura15.png"></p>
+
 
 #### Final y 3er Puesto (Etapa 5)
 
@@ -114,6 +122,7 @@ Para asignar los equipos que jugarán esta instancia seleccionamos <strong>“Re
 
 <p align="center"><img src="images/estructura19.png"></p>
 
+
 ## Administradores de ediciones
 
 Los administradores son aquellos usuarios que habilitamos para que nos ayuden con la gestión del torneo. Ingresando al menú “Administradores” podemos añadirlos haciendo click en el botón <strong>“Agregar Administrador”</strong>.
@@ -124,6 +133,7 @@ Los administradores son aquellos usuarios que habilitamos para que nos ayuden co
 	- <strong>Fichero:</strong> es el planillero que va a poder completar los datos de los partidos sin poder cerrarlos.
 	- <strong>Administrador:</strong> va a tener acceso a todos los apartados de la edición del Torneo.
 - <strong>Email del administrador:</strong> es necesario ingresar el mail del administrador para enviar la invitación.
+
 
 ## Canchas
 
