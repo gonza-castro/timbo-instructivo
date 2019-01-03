@@ -42,11 +42,6 @@
       subMaxLevel: 3
     }
   </script>
-  
-  <?php
-    echo "echo";
-  ?>
-  
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
