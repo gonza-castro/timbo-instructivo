@@ -17,6 +17,7 @@ Dentro del menú de asignación tendremos las siguientes opciones:
 - <strong>Mins. entre partidos:</strong> son los minutos de tiempo muerto entre un partido y el siguiente.
 <p><strong>Ejemplo:</strong> suponiendo que los partidos se juegan cada 2 horas, teniendo 2 tiempos de 45 minutos cada uno y 15 minutos de descanso, tendremos 15 minutos entre partidos:</p>
 <p align="center">45’ + 45’ + 15’ + 15’ = 120’	(2 horas)</p>
+
 - <strong>Canchas:</strong> son las canchas que van a ser asignadas al lote de partidos que seleccionamos. En caso de usar todas tildamos “Usar todas las canchas”, caso contrario destildar la opción y elegir las las canchas deseadas.
 - <strong>Asignar canchas aleatoriamente:</strong> esta opción sirve para que los equipos jueguen en canchas y horarios diferentes cada fecha.
 
