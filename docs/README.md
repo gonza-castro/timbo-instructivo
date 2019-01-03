@@ -8,7 +8,7 @@
 
 Accedemos al administrador de torneos ingresando a www.timboapp.com/admin . En la pantalla nos pedirá que indiquemos el correo electrónico de nuestra cuenta y la contraseña.
 
-<p align="center"><img src="images/primeros-pasos2.jpg"></p>
+<p align="center"><img src="images/primeros-pasos7.jpg"></p>
 
 
 ## Pantalla principal
