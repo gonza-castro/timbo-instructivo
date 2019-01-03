@@ -39,12 +39,10 @@ En el menú “Estructura” podemos añadir las  divisiones o categorías indic
 <p align="center"><img src="images/estructura5.png"></p>
 
 - <strong>Cantidad de minutos de partido:</strong> aquí agregamos la suma de los dos tiempos del partido. En caso de que cada tiempo tenga 45 minutos, corresponderá 90 minutos de partido.
-- <strong>Cantidad de minutos de descanso:</strong> aquí incluimos tanto los minutos de descanso intermedio más los minutos entre dos partidos consecutivos (esto es esencial para la asignación de horarios de los partidos. En caso de haber 15 minutos de descanso y 15 minutos de tiempo entre partido, corresponderá 30 minutos.
+- <strong>Cantidad de minutos de descanso:</strong> aquí incluimos los minutos de descanso entre ambos tiempos del partido.
 
-<strong>Ejemplo:</strong> suponiendo que los partidos se juegan cada 2 horas, teniendo 2 tiempos de 30 minutos cada uno y 10 minutos de descanso, tendremos 50 minutos entre partidos:
-<p align="center">30’ + 30’ + 10’ + 50’ = 120’	(2 horas)</p>
 
-## Crear etapas y zonas Mover aca 1er Cuadro
+## Crear etapas y zonas
 
 Una vez creada la categoría debemos estructurarla. Para ello es que se crean las diferentes zonas, las cuales determinan el esquema de cada etapa del torneo. 
 
