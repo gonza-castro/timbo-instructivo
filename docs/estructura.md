@@ -34,7 +34,7 @@ Luego de ingresar, en el margen izquierdo de la pantalla, nos encontramos con un
 <p align="center"><img src="images/estructura4.png"></p>
 
 
-## Añadir una  nueva categoría
+## Añadir una  nueva Categoría
 
 En el menú “Estructura” podemos añadir las  divisiones o categorías indicando la duración de los partidos y de los descansos.
 
