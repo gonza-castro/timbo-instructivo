@@ -1,5 +1,6 @@
 
 * [Primeros pasos](README)
+  *.[Primeros pasos](README)
 * [Estructura del torneo](estructura)
 * [Gestión de equipos](gestion)
 * [Crear Fixture e Iniciar Categoría](categoria)
