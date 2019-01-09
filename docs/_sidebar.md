@@ -1,5 +1,5 @@
 
-* [Primeros pasos](/)
+* [Primeros pasos](/README.md)
 * [Estructura del torneo](estructura.md)
 * [Gestión de equipos](gestion.md)
 * [Crear Fixture e Iniciar Categoría](categoria.md)
