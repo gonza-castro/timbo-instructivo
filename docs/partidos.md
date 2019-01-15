@@ -21,16 +21,14 @@ También podremos cargar los números de camiseta informados por los jugadores.
 
 <p align="center"><img src="images/partidos3.png"></p>
 
-Para cargar los goles hacemos click en <strong>“Nuevo gol”</strong> y los datos a completar van a ser: minuto y jugador.
-
-<p align="center"><img src="images/partidos3.gif"></p>
+Para cargar los goles hacemos click en <strong>“Agregar gol”</strong> y los datos a completar van a ser: minuto y jugador.
 
 ## Tarjetas
 
 <p align="center"><img src="images/partidos4.png"></p>
 
 Para cargar las tarjetas hacemos click en <strong>“Nueva tarjeta”</strong> y los datos a completar van a ser: minuto, tarjeta (amarilla o roja) y jugador.
-En caso de que un jugador tenga doble amarillo, cargar las dos amarillas y al guardar el sistema le asignará la roja.
+En caso de que un jugador tenga doble amarilla, cargar las dos amarillas y al guardar el sistema le asignará la roja.
 
 ## Suspensiones
 
