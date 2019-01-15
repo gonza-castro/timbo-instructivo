@@ -29,4 +29,4 @@ Muestra los datos básicos de la cuenta.
 
 <p align="center"><img src="images/primeros-pasos4.png"></p>
 
-<p align="center"><img src="images/primeros-pasos4.png"></p>
+<p align="center"><img src="images/7lly.gif"></p>
