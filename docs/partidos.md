@@ -23,6 +23,8 @@ También podremos cargar los números de camiseta informados por los jugadores.
 
 Para cargar los goles hacemos click en <strong>“Nuevo gol”</strong> y los datos a completar van a ser: minuto y jugador.
 
+<p align="center"><img src="images/partidos3.gif"></p>
+
 ## Tarjetas
 
 <p align="center"><img src="images/partidos4.png"></p>
