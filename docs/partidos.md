@@ -17,7 +17,7 @@ Aquí aparecerán los jugadores aceptados dentro de la lista de buena fe.
 Vamos a tildar los jugadores que estuvieron presentes en el partido: titulares y suplentes.
 También podremos cargar los números de camiseta informados por los jugadores.
 
-## Goles
+## Goles--1
 
 <p align="center"><img src="images/partidos3.png"></p>
 
