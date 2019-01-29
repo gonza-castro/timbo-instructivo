@@ -1,8 +1,8 @@
 
-* [Primeros pasos](/docs)
-* [Estructura del torneo](/docs/estructura)
-* [Gestión de equipos](/docs/gestion)
-* [Crear Fixture e Iniciar Categoría](/docs/categoria)
+* [Primeros pasos](/admin/docs)
+* [Estructura del torneo](/admin/docs/estructura)
+* [Gestión de equipos](/admin/docs/gestion)
+* [Crear Fixture e Iniciar Categoría](/admin/docs/categoria)
 * [Gestión del fixture](/docs/fixture)
 * [Carga de resultados de los partidos](/docs/partidos)
 * [Correcciones de tablas](/docs/tablas)
